@@ -1,0 +1,29 @@
+   #container{
+      background-color: red;
+      width: 400px; /* Es para asignarle el ancho que requiera*/
+      height: 400px;   
+      margin-left: 40%;
+      padding-top: 30px; /* Es para dar un espacio de 30 píxeles a la parte superior */
+   }
+
+   #square{
+      background-color: blue;
+      width: 290px;
+      height: 290px; /* Es para asignarle la altura que requiera*/
+      border-radius: 50%; 
+      margin-left: 50px; /*Es para establecer el margen del lado izquierdo lo cual indica que habrá un espacio de 50 píxeles  */
+      padding-top: 40px;
+      
+      
+   }
+   #circle{
+      background-color: green;
+      width: 200px;
+      height: 200px;
+      border-radius: 50%; /* Es para que el elemento sea circular */
+      border: 4px solid white; /* Es para que tenga un borde alrededor de color blanco de un ancho de 4 píxeles*/
+      margin-left: 40px;
+      padding-top: 35px;
+      
+   }
+   
